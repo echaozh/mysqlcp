@@ -1,7 +1,6 @@
 /// sql_res.hpp -- sql results decls
 
-/// Copyright (c) 2011 Vobile. All rights reserved.
-/// Author: Zhang Yichao <zhang_yichao@vobile.cn>
+/// Author: Zhang Yichao <echaozh@gmail.com>
 /// Created: 2011-08-03
 ///
 
